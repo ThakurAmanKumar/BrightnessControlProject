@@ -1,0 +1,13 @@
+Brightness Control With Hand Detection using OpenCV in Python - Project
+
+Copy & Paste the Following Code.
+   - For running the Brightness Control script, copy this:
+
+         1.  cd "C:\Users\LENOVO\Downloads\BrightnessControlProject"
+         2.  python brightness_control.py
+
+
+Stopping the Script.
+   - To stop the running script, use:
+          • CTRL + C in PowerShell
+
