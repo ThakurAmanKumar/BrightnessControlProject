@@ -48,8 +48,10 @@ CTRL + C
 ## Demo Video
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7301916149514977280)
 
-## License
-This project is open-source and free to use. Feel free to contribute!
+## 📜 License
+This project is licensed under the **MIT License**.  
+See the full license [here](https://github.com/ThakurAmanKumar/License/blob/main/LICENSE).
+
 
 ---
 
